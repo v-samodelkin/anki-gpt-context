@@ -1,0 +1,1 @@
+Old project, from when the API for GPT was first introduced. Adds to ANKI cards on the reverse side a text with a sentence in which the word is used (for better memorization within the context)
